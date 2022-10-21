@@ -115,8 +115,7 @@ A verificação de tipos abre muitas oportunidades. No entanto, fazê-lo manualm
 
 Se você deseja uma solução estável, tente o pydantic, uma biblioteca de validação de dados. Usando sua classe BaseModel, você pode validar dados em tempo de execução.
 
-![image](https://user-images.githubusercontent.com/107052041/197239435-a1fe59f8-5e3b-4bf8-9762-0e767072600a.png)
-
+![image](https://user-images.githubusercontent.com/107052041/197247155-9720ab07-434a-429f-9120-cc9a918a67d4.png)
 
 Você pode ir além deste exemplo  fornecendo validadores personalizados para modelos pydantic.
 
