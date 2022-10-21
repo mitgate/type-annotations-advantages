@@ -37,7 +37,7 @@ Basta pensar no exemplo a seguir.
 
 ![image](https://user-images.githubusercontent.com/107052041/197237805-458a8d63-9717-4d15-8bd2-10767b2ce4da.png)
 
-Esta função estatística simples também funciona para listas e matrizes NumPy! Bacana!
+Esta simples função de gerar estatística também funciona para listas e matrizes NumPy! Bacana!
 
 Bem... não totalmente, pois há muitas maneiras de se queimar com isso.
 Por exemplo, você pode passar involuntariamente algo que faz com que a função quebre. Isso é o que acontece se chamarmos a função com uma string.
