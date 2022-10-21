@@ -17,7 +17,10 @@ Ele permite que o desenvolvedor comunique efetivamente os tipos de argumentos es
 
 # Digitação dinâmica em Python
 
-Então, afinal, o que é tipagem dinâmica? Para ver isso, vamos brincar um pouco.
+Então, afinal, o que é tipagem dinâmica? Show me the code...
+
+![image](https://user-images.githubusercontent.com/107052041/197237348-16565792-648a-4f46-817e-7176b9d1c669.png)
+
 
 Nos bastidores, variáveis ​​em Python como a acima são ponteiros, apontando para objetos com um determinado tipo. No entanto, os ponteiros não se restringem a representar objetos de tipo fixo para um determinado nome. Isso nos dá muita liberdade. Por exemplo, funções podem aceitar qualquer tipo como argumento, pois em segundo plano, um ponteiro é passado.
 
@@ -58,9 +61,14 @@ Com a anotação de função, o IDE está ciente do tipo do objeto de dados, que
 Isso também ajuda ao usar a função. Na maioria das vezes, a definição está em um módulo totalmente diferente, longe de onde você está chamando. Ao informar ao IDE o tipo de argumentos, ele poderá ajudá-lo a passar os argumentos no formato correto sem precisar verificar manualmente a documentação ou a implementação.
 Codifique como documentação
 
-Os desenvolvedores gastam muito mais tempo lendo código do que escrevendo. Eu acredito firmemente que um ótimo código é auto-documentado. Com estrutura adequada e nomenclatura de variáveis, raramente são necessários comentários. A anotação de função contribui significativamente para isso. Apenas uma olhada na definição revelará muito sobre como usá-la.
+Os desenvolvedores gastam muito mais tempo lendo código do que escrevendo. Eu acredito firmemente que um ótimo código é auto-documentado. 
+Com estrutura adequada e nomenclatura de variáveis, raramente são necessários comentários. A Function Annotation (anotação de função) contribui significativamente para isso. Apenas uma olhada na definição revelará muito sobre como usá-la.
 Verificação de tipo
 
 As anotações são acessíveis do lado de fora da função.
 
 Isso não é útil apenas para o programador, mas também para o próprio programa! Antes de chamar a função, você pode verificar o
+
+
+
+
