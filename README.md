@@ -4,10 +4,6 @@
 
 Quantas horas você gastou depurando por causa da tipagem dinâmica?
 
-Quando eu comecei com Python, eu vinha de um background em C. Eu não tinha experiência extensa em desenvolvimento de software naquela época, e o gosto da liberdade proporcionado pela digitação dinâmica era boa. Funções que alavancam o polimorfismo e a tipagem permitiram fazer muito com pouco.
-
-Mais tarde, à medida que minha experiência crescia e me envolvia em projetos de grande escala, percebi que essa liberdade é uma bênção maldita. 
-
 À medida que os contribuidores crescem e o código está sendo aproximado do nível de produção, não ter digitação estática ou verificação de tipo pode levar a surpresas desagradáveis.
 
 Este foi um sentimento compartilhado entre muitos no ecossistema Python. No entanto, manter a liberdade permitida pela tipagem dinâmica, mas mitigar seu impacto negativo, é difícil.
