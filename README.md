@@ -65,7 +65,10 @@ Desenvolvimento mais rápido com conclusão de código
 Você já tentou desenvolver em um editor de texto barebones como o Bloco de Notas? Você tem que digitar tudo e ter em mente o que é o que o tempo todo. Mesmo um IDE não pode ajudá-lo se não tiver ideia sobre o objeto que você está usando.
 
 Dê uma olhada no exemplo abaixo.
-Autocompletar no PyCharm
+Autocompletar no PyCharm:
+
+![image](https://user-images.githubusercontent.com/107052041/197240336-264ef828-deb9-4f62-bc8f-fa0868330f83.png)
+
 
 Com a anotação de função, o IDE está ciente do tipo do objeto de dados, que é o valor de retorno da função preprocess_data. Assim, você obtém o preenchimento automático, o que economiza muito tempo.
 
