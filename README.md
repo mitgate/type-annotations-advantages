@@ -121,7 +121,7 @@ Você pode ir além deste exemplo  fornecendo validadores personalizados para mo
 
 pydantic é um dos pilares do FastAPI, (baseado no Openapi) que é um dos frameworks de desenvolvimento web em Python.
 
-Lá, o pydantic disponibiliza para definir facilmente os esquemas JSON para os endpoints.
+Lá, o pydantic disponibiliza de maneira simples a definição dos esquemas JSON para os endpoints.
 
 
 
