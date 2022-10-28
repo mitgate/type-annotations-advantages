@@ -14,7 +14,7 @@ Se há um recurso em Python que maximiza o impacto positivo em seu código, exig
 
 Ele permite que o desenvolvedor comunique efetivamente os tipos de argumentos esperados e os valores de retorno com o interpretador (e outros desenvolvedores também), mantendo as vantagens da tipagem dinâmica.
 
-# Digitação dinâmica em Python
+# Tipagem dinâmica em Python
 
 Então, afinal, o que é dynamic typing (tipagem dinâmica)? # Show me the code!
 
